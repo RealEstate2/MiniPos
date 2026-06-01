@@ -1,6 +1,6 @@
 # MiniPos Az-El Rotator — Ground Station Documentation
 
-**Project:** Skylink Ground Station  
+**Project:** MiniPos Ground Station Positioner 
 **Team:** Open Orbit CubeSat Team, Colorado State University  
 **Revision:** 1.0 — May 2026
 
