@@ -34,6 +34,7 @@ MiniPos is a belt-driven azimuth-elevation antenna rotator designed for CubeSat 
 
 **Structural:**
 - FDM printed structure, ~400g total print mass
+- Designed for Use with 1" PCV with an OD of 1.315"
 - 50×65mm deep groove ball bearings at rotation axes
 - Polyurethane belt drive, cut 5–10% shorter than loop length to maintain tension
 
